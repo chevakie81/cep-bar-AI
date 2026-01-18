@@ -1,0 +1,7 @@
+{
+  "name": "CEP-BAR",
+  "description": "Professional image description and generation tool with strict privacy-focused descriptive rules and advanced AI generation capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
